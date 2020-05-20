@@ -2,6 +2,7 @@
 
 ## Authors
 - [iantheninja](https://github.com/iantheninja)
+- [WinnieAnyoso](https://github.com/WinnieAnyoso)
 
 ## Project setup instructions
 To start using this project use the following commands:
